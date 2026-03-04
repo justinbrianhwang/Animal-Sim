@@ -2,6 +2,10 @@
 
 A real-time 3D preclinical animal experiment simulator built with C++17 and OpenGL. Designed for pharmaceutical R&D education and training, it provides an interactive Surgeon Simulator-style lab environment where users can administer drugs, monitor vital signs, and observe physiological responses in real time.
 
+<img width="1599" height="901" alt="image" src="https://github.com/user-attachments/assets/d851396b-c714-4bee-a42a-2c565eae15e3" />
+
+
+
 ## Features
 
 ### Multi-Drug Pharmacology System
